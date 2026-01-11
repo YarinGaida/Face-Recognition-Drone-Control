@@ -38,7 +38,7 @@ The project bridges the gap between high-level software and low-level hardware l
 * **Distance Tracking:** Live graphical monitoring of the drone's proximity to the control center.
 
 ## 📸 Demo
-*(Insert a link to your video or a GIF here)*
+https://youtu.be/iXTirhR4eHo?si=bqFUp26u5LY3DYZ-
 
 ---
-*Developed by Yarin Gaida & [Partner Name] as a final engineering project.*
+*Developed by Yarin Gaida & Noam Atia as a final engineering project.*

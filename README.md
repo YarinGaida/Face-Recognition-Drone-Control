@@ -1,4 +1,4 @@
-# 🚁 Autonomous Security Drone with FPGA Integration
+# # <img src="https://img.icons8.com/fluency/48/drone.png" width="35" height="35"/> Autonomous Security Drone with FPGA Integration Autonomous Security Drone with FPGA Integration
 
 > **A real-time surveillance system combining Computer Vision, Drone technology, and Hardware interfacing (FPGA & Arduino).**
 
